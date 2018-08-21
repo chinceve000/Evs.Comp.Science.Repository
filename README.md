@@ -1,3 +1,3 @@
-Ev's Repository *seperate paragraph*
+Ev's Repository 
 A repository for my computer science class :)
 Hope you enjoy! :)
