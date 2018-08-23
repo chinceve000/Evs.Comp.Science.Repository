@@ -1,7 +1,7 @@
 ## Ev's Repository 
-A repository for my computer science class :smiley:
-Hope you enjoy! :)
+A repository for my computer science class 
+Hope you enjoy! :smiley:
 
 **Important Links**
-[Syllabus](Comp.science.syllabus.md)
-[Course Description](course description.md)
+1. [Syllabus](Comp.science.syllabus.md)
+1. [Class Description](Class Description.md)
