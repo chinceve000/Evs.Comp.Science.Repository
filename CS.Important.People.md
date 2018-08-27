@@ -1,1 +1,5 @@
 ## Important People in Computer Science:
+1. Ada Lovelace: Ada Lovelace (1815-1852), the daughter of the famous poet Lord Byron, is considered the first person to ever write a computer program, before computers were even made! At the young age of 17, Lovelace went to Cambridge and worked alongside Professor Charles Babbage, who is considered the father of the computer. While Ada did get married and raise a family, she continued to work alongside Babbage. When Babbage created his most well known machine, the Analytical Machine, Ada stepped in to suggest that the machine could do much more powerful than just mathematical calculations. What she suggested the machine could do would nowadays be called a computer. Lovelace also found errors in the machine that she would fix. Unfortunately, Babbge would never explore Ada's proposals and she died at the age of 36 from cancer. Finally, about 101 years after her death, people would begin to use her proram to build the computer. As Babbage used to call her, she was an "Enchantress of Numbers."  
+
+Sources:
+https://www.youtube.com/watch?time_continue=2&v=uBbVbqRvqTM
